@@ -6,8 +6,7 @@ This was the task-1 given by TIF team to build an app in Flutter for events, con
 
 
 ## Screenshots
-
-![App Screenshot](https://drive.google.com/file/d/1U6eXERv3zv4IYuzT201Xm6USIixMWXe0/view?usp=drive_link)
+![Application Preview](https://github.com/chai1-0ya/flutter_assignment/assets/88584782/0a883ea6-51af-4c3b-9dfa-95bafe6e5817)
 
 
 ## 🔗 Links

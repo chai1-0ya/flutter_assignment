@@ -1,16 +1,43 @@
-# flutter_assignment
 
-A new Flutter project.
+# TIF: Flutter Assignment
 
-## Getting Started
+This was the task-1 given by TIF team to build an app in Flutter for events, consisting of three screens - Home, Event Details, and Search. The design for these screens can be found in provided Figma file. The Events were to be fetched using provided APIs.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Screenshots
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![App Screenshot](https://drive.google.com/file/d/1U6eXERv3zv4IYuzT201Xm6USIixMWXe0/view?usp=sharing)
+
+
+## 🔗 Links
+[![.APK File](https://drive.google.com/file/d/1djALV3GVs4V2Yt15b1rifttO_Y-5q1gR/view?usp=sharing)](https://drive.google.com/file/d/1GnOCa1EzTBCKXzxycadJvpIWCs1dUpCJ/view?usp=sharing)
+
+
+## Deployment
+
+Step 1. To deploy this project run
+
+```bash
+  flutter pub get
+```
+Step 2. To run the app
+
+```bash
+  flutter run
+```
+
+
+## Features
+
+#### Libraries & Tools Used
+
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [dio](https://pub.dev/packages/dio)
+- [flutter_svg](https://pub.dev/packages/flutter_svg)
+- [pretty_dio_logger](https://pub.dev/packages/pretty_dio_logger)
+- [cached_network_image](https://pub.dev/packages/cached_network_image)
+- [intl](https://pub.dev/packages/intl)
+- [expandable_text](https://pub.dev/packages/expandable_text)
+- [lottie](https://pub.dev/packages/lottie)
+

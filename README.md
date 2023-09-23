@@ -10,7 +10,7 @@ This was the task-1 given by TIF team to build an app in Flutter for events, con
 
 
 ## 🔗 Links
-)![Apk-file]([https://github.com/chai1-0ya/flutter_assignment/assets/88584782/2c83e220-b09d-409a-85b3-3ec0dfeaf027](https://drive.google.com/file/d/1GnOCa1EzTBCKXzxycadJvpIWCs1dUpCJ/view?usp=sharing))
+![Apk-file]((https://drive.google.com/file/d/1GnOCa1EzTBCKXzxycadJvpIWCs1dUpCJ/view?usp=sharing))
 
 
 

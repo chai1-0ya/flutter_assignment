@@ -7,7 +7,7 @@ This was the task-1 given by TIF team to build an app in Flutter for events, con
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1U6eXERv3zv4IYuzT201Xm6USIixMWXe0/view?usp=sharing)
+![App Screenshot](screenshot/Yellow Gradient Background Minimal UI Mockup Smartphone Facebook Post for Mobile Application.png)
 
 
 ## 🔗 Links
